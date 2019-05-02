@@ -17,5 +17,9 @@ public class S1114 {
     public void test() {
 
     }
+
+    public void test2() {
+
+    }
 }
 
