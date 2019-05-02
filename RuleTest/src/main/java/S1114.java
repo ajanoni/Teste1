@@ -1,7 +1,7 @@
 public class S1114 {
     protected void finalize() throws Throwable {
         try {
-            // no method
+            ;;// no method
         } catch (Throwable t) {
             releaseSomeResources();
             super.finalize(); // non-compliant- Super is at the end of the
@@ -14,12 +14,5 @@ public class S1114 {
 
     }
 
-    public void test() {
-
-    }
-
-    public void test2() {
-
-    }
 }
 
