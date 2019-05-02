@@ -13,5 +13,9 @@ public class S1114 {
     public void releaseSomeResources() {
 
     }
+
+    public void test() {
+
+    }
 }
 
